@@ -1,6 +1,6 @@
 👋 Halo, Saya Ahmad Wildan
 
-Saya adalah seorang \*\*Web Developer\*\* dan \*\*Software Engineer\*\* yang antusias di bidang \*\*keamanan siber\*\*, \*\*jaringan komputer\*\*, dan \*\*pengembangan aplikasi full-stack\*\*. Saya senang mengeksplorasi teknologi baru dan membangun solusi digital yang efisien dan aman.
+Saya adalah seorang \*\*Web Developer\*\* dan \*\*Mobile Developer\*\* yang antusias di bidang \*\*Software Engineer\*\*, \*\*keamanan siber\*\*, \*\*jaringan komputer\*\*, dan \*\*pengembangan aplikasi full-stack\*\*. Saya senang mengeksplorasi teknologi baru dan membangun solusi digital yang efisien dan aman.
 
 yang antusias di bidang \*\*keamanan siber\*\*, \*\*jaringan komputer\*\*, dan \*\*pengembangan aplikasi full-stack\*\*. Saya senang mengeksplorasi teknologi baru dan membangun solusi digital yang efisien dan aman.
 
@@ -26,7 +26,7 @@ Setelah mendalami web development, saya berencana memperdalam bidang:
 
 \* \*\*VS Code\*\* sebagai editor utama (tanpa Android Studio!)
 
-\* \*\*Flutter & WebView\*\* untuk pengembangan aplikasi Android
+\* \*\*Flutter & WebView\*\* untuk pengembangan aplikasi Android/ios
 
 \* \*\*Python\*\*, \*\*Linux\*\*, \*\*Windows Server\*\*, \*\*Cisco\*\*, \*\*Git\*\*, dan \*\*Vercel\*\* untuk berbagai kebutuhan pengembangan dan jaringan
 
@@ -43,7 +43,7 @@ Setelah mendalami web development, saya berencana memperdalam bidang:
 
 \---
 
-\### 💻 Bahasa yang Digunakan Untuk Android Dev
+\### 💻 Bahasa yang Digunakan Untuk Mobile Dev
 
 1. Dart
 2. Java
