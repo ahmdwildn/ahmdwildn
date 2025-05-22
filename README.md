@@ -4,6 +4,7 @@ Saya adalah seorang \*\*Web Developer\*\* dan \*\*Mobile Developer\*\* yang antu
 
 yang antusias di bidang \*\*keamanan siber\*\*, \*\*jaringan komputer\*\*, dan \*\*pengembangan aplikasi full-stack\*\*. Saya senang mengeksplorasi teknologi baru dan membangun solusi digital yang efisien dan aman.
 
+
 🔐 Saat ini saya fokus mendalami pengembangan web, mulai dari frontend hingga backend, termasuk:
 
 \* HTML, CSS, JavaScript.
@@ -14,6 +15,7 @@ yang antusias di bidang \*\*keamanan siber\*\*, \*\*jaringan komputer\*\*, dan \
 
 \* Database (MySQL, MongoDB)
 
+
 Setelah mendalami web development, saya berencana memperdalam bidang:
 
 \* SOC (Security Operations Center)
@@ -21,6 +23,7 @@ Setelah mendalami web development, saya berencana memperdalam bidang:
 \* SIEM (Security Information and Event Management)
 
 \* Firewall & sistem keamanan jaringan
+
 
 🧑‍💻 Tools yang saya gunakan sehari-hari:
 
@@ -38,7 +41,6 @@ Setelah mendalami web development, saya berencana memperdalam bidang:
 2. &#x20;JavaScript
 3. &#x20;TypeScript
 4. &#x20;Php
-5. &#x20;Laravel
 6. Node.js
 
 \---
@@ -48,8 +50,6 @@ Setelah mendalami web development, saya berencana memperdalam bidang:
 1. Dart
 2. Java
 3. Kotlin
-4. XML
-5. Gradle
 
 \---
 
